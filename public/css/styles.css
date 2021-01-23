@@ -1,0 +1,45 @@
+html {
+    scroll-behavior: smooth;
+}
+.is-180x180{
+    height: 280px;
+    width: 280px;
+}
+.skill-list > li{
+    margin: 30px 0 0 0;
+}
+.has-bg-image {
+    background-image: url('../images/cover10.webp'), url('../images/cover10.JPG');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-shadow: 2px 2px 5px rgb(255, 81, 0);
+    box-shadow: 0 0 0 5px;
+
+    filter: brightness(0.4);
+    filter: contrast(200%);
+    filter: drop-shadow(16px 16px 20px blue);
+    filter: grayscale(50%);
+    filter: hue-rotate(90deg);
+    filter: invert(75%);
+    filter: opacity(25%);
+    filter: saturate(30%);
+    filter: sepia(60%);
+
+
+}
+.bulma-image {
+    width: 200px;
+}
+.interests {
+    display: flex;
+    justify-content: center;
+}
+.summary-text {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 36em;
+}
+.skill-percentage {
+	float: right;
+}
