@@ -29,6 +29,18 @@
         "username": "medsep",
         "url": "https://github.com/medsep",
         "x_icon": "fab fa-2x fa-github"
+      },
+      {
+        "personal page": "Netlify",
+        "username": "medsep",
+        "url": "https://medsep.netlify.app/",
+        "x_icon":"fas fa-home"
+      },
+      {
+        "personal page": "Stackoverflow",
+        "username": "medsep",
+        "url": "https://stackoverflow.com/users/12420157/med-sep",
+        "x_icon":"fab fa-2x fa-stack-overflow"
       }
     ]
   },
